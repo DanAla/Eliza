@@ -1,4 +1,4 @@
-# Eliza for PHP
+# Eliza for PHP via Telegram ChatBot
 
 This is a straight port of the Eliza chatbot therapist to PHP.
 
