@@ -6,7 +6,7 @@
 	$e = new \Crell\Eliza\Eliza();
 
 
-	$path = "https://api.telegram.org/bot123456789:5B6CAFatW_u2KwM6qEYwCqTWgAJOesOU46A";
+	$path = "https://api.telegram.org/bot123456789:5B6CAFa_SomeRealBotID_qTWgAJOesOU46A";
 	$inputjson = file_get_contents("php://input");
 	$update = json_decode($inputjson, TRUE);
 	$chatId = $update["message"]["chat"]["id"];
