@@ -4,7 +4,7 @@ This is a straight port of the Eliza chatbot therapist to PHP.
 
 Based very closely on this Python implementation: https://www.smallsurething.com/implementing-the-famous-eliza-chatbot-in-python/
 
-## CLI
+## Telegram ChatBot
 
 The "Hook" that lets you talk to Eliza via Telegram.
 https://api.telegram.org/bot123456789:5B6CAFa_SomeRealBotID_qTWgAJOesOU46A/setwebhook?url=https://example.com/Eliza/elizaHook.php
