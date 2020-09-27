@@ -6,6 +6,11 @@ Based very closely on this Python implementation: https://www.smallsurething.com
 
 ## CLI
 
+The "Hook" that lets you talk to Eliza via Telegram.
+https://api.telegram.org/bot123456789:5B6CAFa_SomeRealBotID_qTWgAJOesOU46A/setwebhook?url=https://example.com/Eliza/elizaHook.php
+
+## CLI
+
 The `main.php` file is a basic CLI that lets you talk to Eliza.
 
 ## Library
